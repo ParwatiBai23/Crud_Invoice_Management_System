@@ -39,3 +39,4 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 ### License
 
 mit
+![CIMS1](https://github.com/user-attachments/assets/1d524e43-c952-490e-864a-86edc53e871a)
