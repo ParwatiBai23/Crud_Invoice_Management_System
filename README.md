@@ -40,3 +40,9 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 
 mit
 ![CIMS1](https://github.com/user-attachments/assets/1d524e43-c952-490e-864a-86edc53e871a)
+![CIMS2](https://github.com/user-attachments/assets/43a70a92-5579-4e9b-ba16-08e34b4466c8)
+![CIMS3](https://github.com/user-attachments/assets/f4efcb9b-db3d-435f-813d-17cdd14b6d74)
+![CIMS4](https://github.com/user-attachments/assets/442a4439-83ef-499c-b440-86ae9716a92c)
+
+
+
