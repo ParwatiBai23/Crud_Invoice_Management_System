@@ -28,6 +28,7 @@ app_license = "mit"
 # app_include_css = "/assets/crud_invoice_management_system/css/crud_invoice_management_system.css"
 # app_include_js = "/assets/crud_invoice_management_system/js/crud_invoice_management_system.js"
 
+
 # include js, css files in header of web template
 # web_include_css = "/assets/crud_invoice_management_system/css/crud_invoice_management_system.css"
 # web_include_js = "/assets/crud_invoice_management_system/js/crud_invoice_management_system.js"
@@ -44,6 +45,10 @@ app_license = "mit"
 
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
+doctype_js = {
+    "Invoice": "public/js/invoice.js"
+}
+
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
